@@ -1,0 +1,27 @@
+[
+  {
+    "abbrev": "gn",
+    "book": "Gênesis",
+    "chapters": {
+      "1": {
+        "1": "No princípio criou Deus os céus e a terra.",
+        "2": "E a terra era sem forma e vazia; e havia trevas sobre a face do abismo; ..."
+      },
+      "2": {
+        "1": "Assim os céus, a terra e todo o seu exército foram acabados."
+      }
+    }
+  },
+  {
+    "abbrev": "ex",
+    "book": "Êxodo",
+    "chapters": {
+      "1": {
+        "1": "Estes são os nomes dos filhos de Israel que vieram ao Egito com Jacó; cada um veio com a sua família:"
+      },
+      "2": {
+        "1": "E foi-se um homem da casa de Levi, e casou com uma filha de Levi."
+      }
+    }
+  }
+]
